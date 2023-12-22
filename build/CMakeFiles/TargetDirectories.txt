@@ -1,0 +1,10 @@
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/gtest/CMakeFiles/gtest.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/stack/CMakeFiles/stack.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/stack_main/CMakeFiles/stack_main.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/stack_test/CMakeFiles/stack_test.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/postfix/CMakeFiles/postfix.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/postfix_main/CMakeFiles/postfix_main.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/postfix_test/CMakeFiles/postfix_test.dir
+C:/Users/dimakavtorev/mp2-lab3-postfix/build/form/CMakeFiles/form.dir

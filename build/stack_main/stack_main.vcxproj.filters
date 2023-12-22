@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dimakavtorev\mp2-lab3-postfix\stack_main\test_stack_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dimakavtorev\mp2-lab3-postfix\stack_main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E31C0F92-2264-3E23-B14D-392F7D9F8D6F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
